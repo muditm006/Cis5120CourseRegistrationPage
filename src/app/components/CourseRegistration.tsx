@@ -9,7 +9,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/app/components/ui/select";
-import pennLogo from "figma:asset/677ab52b80d6b51c94d4c7fc322048b62cc3cc3e.png";
+import pennLogo from "@/assets/pennlogo.png";
 
 export function CourseRegistration() {
   const [semester, setSemester] = useState("Spring 2026");
